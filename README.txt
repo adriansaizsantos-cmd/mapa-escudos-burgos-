@@ -1,0 +1,1 @@
+Abre index.html en Chrome con conexión a Internet. Los escudos se guardan en el navegador.
